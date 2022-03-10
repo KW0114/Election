@@ -25,7 +25,7 @@ There were 3 candidates: Charles Stockham, Diana DeGette, and Raymon Doane:
 73.8% of the total vote (272,892).
 
 See the output of this election analysis that recaps all this information:
-![election results]
+![election results](https://github.com/KW0114/election-analysis/blob/68e3ac155e204d95ad0e2bcd59020a86fcadbfed/Resources/Election%20Results%20Snapshot.png)
 
 ## Summary
      This python script could easily be used for another election, with as many candidates or counties as you would like. 
