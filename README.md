@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview
-     This analysis was performed on a dataset of ballots from three different counties:
+This analysis was performed on a dataset of ballots from three different counties:
 Arapahoe, Denver, and Jefferson. 
 Our job was to decide the winner of the election, as well as determine the county
 with the highest voter turnout.
