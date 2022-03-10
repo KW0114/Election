@@ -28,12 +28,12 @@ See the output of this election analysis that recaps all this information:
 ![election results](https://github.com/KW0114/election-analysis/blob/68e3ac155e204d95ad0e2bcd59020a86fcadbfed/Resources/Election%20Results%20Snapshot.png)
 
 ## Summary
-     This python script could easily be used for another election, with as many candidates or counties as you would like. 
-As these numbers get larger though, it may be best not to print every single candidate and county name to 
-the screen or our output file. We could easily change this by making sure we specify only to print maybe
-the top 5 candidates, or however many you would be interested in. I would probably do this by creating a separate
-list containing the name of the candidates with the highest votes per your specifications. 
+     This python script could easily be used for another election, with as many candidates or counties 
+as you would like. As these numbers get larger though, it may be best not to print every single candidate 
+and county name to the screen or our output file. We could easily change this by making sure we specify only to 
+print maybe the top 5 candidates, or however many you would be interested in. I would probably do this by 
+creating a separate list containing the name of the candidates with the highest votes per your specifications. 
 
-     As we get more sophisticated data, we may even be able to add some more values to our analysis, such as age of
-voters and how that relates to who they voted for. Maybe we could make a dictionary keeping track of the most popular
-candidate for a specific set of age ranges. 
+     As we get more sophisticated data, we may even be able to add some more values to our analysis, 
+such as age of voters and how that relates to who they voted for. Maybe we could make a dictionary 
+keeping track of the most popularcandidate for a specific set of age ranges. 
